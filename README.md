@@ -1,1 +1,1 @@
-# Todo lis with Django RESTAPI 
+# Creating a backend Todo list with Django RESTAPI 
